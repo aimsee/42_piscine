@@ -4,8 +4,9 @@ In this repository, you'll find a bunch of content to be well prepared to 42's p
 :package: WIP
 ## Tests
 :package: WIP
-If you want to test your functions just simply add the files to the folder with your files and compile them together. It will allow you to compare your code with the 
-## Solutions
+
+If you want to test your functions just simply add the files to the folder with your files and compile them together. It will allow you to compare your code with the built-in libraries functions and your programs
+## Corrections
 :package: WIP
 ## Exercises training
 :package: WIP
