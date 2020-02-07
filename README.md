@@ -1,7 +1,11 @@
 # 42's Piscine training
 In this repository, you'll find a bunch of content to be well prepared to 42's piscine. Including the subjects, functional tests for your code and useful links that helped me to prepare myself.
 ## Subjects
-:package: WIP
+ Find all the exercises that you will encounter during the Piscine. It also includes the BSQ, Rush and Shell exercises.
+ 
+ [Subjects - FR](https://github.com/Korkrane/42_piscine/tree/master/Subjects/FR) * *Summer 2019* *
+
+:package: WIP - looking for english subjects
 ## Tests
 :package: WIP
 
