@@ -36,17 +36,14 @@ Congrats ! You have been selected to participate to this experience. In that sec
 
  - Vim and Sublime Text can be deeply modified to fit your style. To begin with, I advise you to add this following line of code to your vim configuration file :
 
- `set mouse=a` : you will be able to use your mouse to in vim
+ 	`set mouse=a` : you will be able to use your mouse to in vim
 
- `set nu` : it displays line number while you are editing (it helps a lot when you are running the norm and to see where is your mistake
- )
- `:syntax on` it highlights the code you are writting.
+ 	`set nu` : it displays line number while you are editing (it helps a lot when you are running the norm and to see where is your mistake
+
+ 	`:syntax on` it highlights the code you are writting.
 
  To access to your vim configuration file, type `vim .vimrc`
 
 I let you do your own researches to find new possibilities to customize it.
 
 Note : during exams, you will have to use Vim. You should be comfortable enough with it, Vim is a really complete tool but you can easily struggle with it at the beginning. That's why I advise you to use Sublime in parralel of Vim during the Piscine.
-
-:package: WIP
-
