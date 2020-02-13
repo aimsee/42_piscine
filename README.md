@@ -7,11 +7,24 @@ In this repository, you'll find a bunch of content to be well prepared to 42's p
 
 :package: WIP - looking for english subjects
 ## Tests
-:package: WIP
 
-If you want to test your functions just simply add the files to the folder with your files and compile them together. It will allow you to compare your code with the built-in libraries functions and your programs
+This section is made to make your corrections faster and make sure to test each function that you wrote and by others students even if you are not fully understanding his/her code. It contains all the main.c files to verify that your function has the expected output. Most of the tests will proceed to multiple try with different settings to verify that the function takes all the conditions into account.
+
+For corrections, plug the files on an USB-Key and just simply add the files to the folder with the exercise files and compile them together.
+
+Please find below repositories that have the same purpose and (I do not have tested them) : 
+
+- :package: WIP - ***add link***
+- :package: WIP - ***add link***
+
+Note : If you have a doubt, make sure to verify the code by yourself. During corrections, do not just proceed to tests and leave. You still have to look at the code that the person has wrote and see if he/she can explain it.
+
 ## Corrections
-:package: WIP
+ 
+All the .c files completed (some of them are still missing. In the case where you really want to look at the code of theses specific exercises, I invite you to search them on others repositories. There is a lot of them available on others repositories).
+
+Note : There is many ways to solve an exercise. You will probably have different solutions that works too very well. The solutions available here are respecting the norm and have the purpose to help you understand the logic behind the exercises. Obviously, it's not recommended at all to copy/paste the code. If you do, make sure to have fully understand it and that you are able to write it again **alone**.
+ 
 ## Exercises training
 
 You will find multiple exercises that will be given during the exam session. 
@@ -42,9 +55,6 @@ T00          | T01           | T02           | T03           | T04           | T
 &nbsp; |   | [wdmatch](https://github.com/Korkrane/42_piscine/tree/master/Exams%20training/T02/wdmatch)  |   |  |   |
 &nbsp; |   | [ft_strdup](https://github.com/Korkrane/42_piscine/tree/master/Exams%20training/T02/ft_strdup)  |   |  |   |
 
-
-
-:package: WIP
 ## During the piscine
 Congrats ! You have been selected to participate to this experience. In that section, I'll share with you a list of advice and practice that could help you and make your time a little bit easier.
 ### General Tips
