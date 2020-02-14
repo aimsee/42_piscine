@@ -1,5 +1,12 @@
 # 42 Piscine training
 In this repository, you'll find a bunch of content to be well prepared to 42 piscine. Including the subjects, functional tests for your code and useful links and ressources that helped me to prepare myself.
+
+ - [Subjects](subjects)
+ - [Tests](tests)
+ - [Corrections](corrections)
+ - [Exam Training](exam-training)
+ - [During the piscine](during-the-piscine)
+
 ## Subjects
  Find all the exercises that you will have to complete during the Piscine. It also includes the BSQ, Rush and Shell exercises.
 
@@ -22,7 +29,7 @@ All the .c files completed (some of them are still missing. In the case where yo
 
 Note : There is many ways to solve an exercise. You will probably have a different solution that  is working very well. The solutions available here are respecting the norm and. They are here to help you understand the logic behind the exercises. Obviously, it's not recommended at all to copy/paste the code. If you do, make sure to have fully understand it and that you are able to write it again **alone**.
  
-## Exercises training
+## Exam training
 
 You will find multiple exercises that will be given during the exam session. 
 I highly recommend you to do, at least, few of them to be fully prepared for exams. Try to complete them in the same situation as the exams (no external help and no access to google).
@@ -66,6 +73,9 @@ Congrats ! You have been selected to participate to this experience. In that sec
  - Be focus while you are making corrections. This is where you can learn the most from people that are ahead of you in the exercises.
 
  - Write tests in exams, and **do not forgot to erase them** before your commit.
+ 
+ - Be comfortable with Git commands before the first rush (pull/push, branch and merge) or your teamwork will be a mess.
+ 
  ### Set up
 
  I'm currently using [Sublime Text 3](https://www.sublimetext.com/) as text editor. It's an easy to use editor and you can highly modify it depending on your settings and packages installed.
