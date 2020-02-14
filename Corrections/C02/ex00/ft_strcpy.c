@@ -13,9 +13,3 @@ char	*ft_strcpy(char *dest, char *src)
 	dest[i] = '\0';
 	return(dest);
 }
-
-int main(int argc, char **argv)
-{
-	printf("%s",ft_strcpy(argv[1], argv[2]));
-	return 0;
-}
