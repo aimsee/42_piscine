@@ -1,11 +1,11 @@
 # 42 Piscine training
 In this repository, you'll find a bunch of content to be well prepared to 42 piscine. Including the subjects, functional tests for your code and useful links and ressources that helped me to prepare myself.
 
- - [Subjects](subjects)
- - [Tests](tests)
- - [Corrections](corrections)
- - [Exam Training](exam-training)
- - [During the piscine](during-the-piscine)
+ - [Subjects](#subjects)
+ - [Tests](#tests)
+ - [Corrections](#corrections)
+ - [Exam Training](#exam-training)
+ - [During the piscine](#during-the-piscine)
 
 ## Subjects
  Find all the exercises that you will have to complete during the Piscine. It also includes the BSQ, Rush and Shell exercises.
