@@ -15,11 +15,3 @@ void ft_rev_int_tab(int *tab, int size)
 		size--; 
 	}
 }
-
-int main()
-{
-	int *mytab;
-	my_tab = [0, 1, 2, 3, 4];
-	ft_rev_int_tab(my_tab, 5);
-	return(0);
-}

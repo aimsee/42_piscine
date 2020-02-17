@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 char	*ft_strcapitalize(char *str)
 {
 	int	i;
@@ -18,10 +16,4 @@ char	*ft_strcapitalize(char *str)
 		i++;
 	}
 	return (str);
-}
-
-int main(int argc, char **argv)
-{
-	printf("%s", ft_strcapitalize(argv[1]));
-	return 0;
 }

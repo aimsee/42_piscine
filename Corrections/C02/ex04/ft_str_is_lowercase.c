@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 int	ft_str_is_lowercase(char *str)
 {
 	int i;
@@ -11,11 +9,5 @@ int	ft_str_is_lowercase(char *str)
 			return(0);
 		i++;
 	}
-  return(1);
-}
-
-int main(int argc, char **argv)
-{
-	printf("%d", ft_str_is_lowercase(argv[1]));
-	return 0;
+	return(1);
 }
