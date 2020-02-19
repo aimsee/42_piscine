@@ -81,7 +81,12 @@ Congrats ! You have been selected to participate to this experience. In that sec
  I'm currently using [Sublime Text 3](https://www.sublimetext.com/) as text editor. It's an easy to use editor and you can highly modify it depending on your settings and packages installed.
 
  - To add the required 42's header in files, I invite you to copy [this repository](https://github.com/kigiri/sublime-header-42) to your Sublime packages to access it via Sublim go to : ***Preferences*** and then ***Browse Package***. You will just have to press `ctrl + shift + h` to add the header to your file.
-
+ 
+ - To quickly reindent the file you are working on, press `ctrl + shift + p` then type `reindent` and select ***Indentation:Reindent Lines***. If you want to check all the spaces/characters you wrote in a file, you should keybind the withe space toggle. To save your keybinds, go to : ***Preferences*** and ***Key Bindings***. On the right panel, add the following code (free to you to modify the `ctrl + shift + a` bind) :
+ 
+ `{ "keys": ["ctrl+shift+a"], "command": "set_setting", "args" : { "setting": "draw_white_space", "value": "all"}},
+ { "keys": ["ctrl+shift+z"], "command": "set_setting", "args" : { "setting": "draw_white_space", "value": "selection"}}`
+ 
  - Vim and Sublime Text can be deeply modified to fit your style. To begin with, I advise you to add this following line of code to your vim configuration file :
 
  	`set mouse=a` : you will be able to use your mouse to in vim
