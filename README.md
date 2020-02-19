@@ -84,10 +84,9 @@ Congrats ! You have been selected to participate to this experience. In that sec
  
  - To quickly reindent the file you are working on, press `ctrl + shift + p` then type `reindent` and select ***Indentation:Reindent Lines***. If you want to check all the spaces/characters you wrote in a file, you should keybind the withe space toggle. To save your keybinds, go to : ***Preferences*** and ***Key Bindings***. On the right panel, add the following code (free to you to modify the `ctrl + shift + a` bind) :
  
-`{ "keys": ["ctrl+shift+a"], "command": "set_setting", "args" : { "setting": "draw_white_space", "value": "all"}},`
-`{ "keys": ["ctrl+shift+z"], "command": "set_setting", "args" : { "setting": "draw_white_space", "value": "selection"}}`
-
-
+ `{ "keys": ["ctrl+shift+a"], "command": "set_setting", "args" : { "setting": "draw_white_space", "value": "all"}},
+ { "keys": ["ctrl+shift+z"], "command": "set_setting", "args" : { "setting": "draw_white_space", "value": "selection"}}`
+ 
  - Vim and Sublime Text can be deeply modified to fit your style. To begin with, I advise you to add this following line of code to your vim configuration file :
 
  	`set mouse=a` : you will be able to use your mouse to in vim
