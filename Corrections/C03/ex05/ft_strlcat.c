@@ -1,5 +1,5 @@
 
-unsigned int		ft_strlen(char *str)
+unsigned int	ft_strlen(char *str)
 {
 	int i;
 
@@ -9,7 +9,7 @@ unsigned int		ft_strlen(char *str)
 	return (i);
 }
 
-unsigned int		ft_strlcat(char *dest, char *src, unsigned int size)
+unsigned int	ft_strlcat(char *dest, char *src, unsigned int size)
 {
 	unsigned int i;
 	unsigned int len_src;
